@@ -117,13 +117,12 @@ item from a database for example is an event. JavaScript does this with the
 is an important part of understanding NodeJS. But because I don't want to
 overload you on the first day of class, for now the important take away is that
 NodeJS is non-blocking, it can move on to a new task while completing the
-previous task. This makes NodeJS fast, which is yet another reason for its
-popularity.
+previous task.
 
 ### NPM
 
-we will come back to this very soon, for now NPM is the *Node Package Manager* and
-it is a handy tool for installing modules, or packages (programs, functions...)
+we will star using NPM very soon, for now NPM is the *Node Package Manager* and
+it is a handy tool for installing modules 
 that other developers have written that make writing software much faster. It
 likely comes as no surprise that there are many tasks that need to be done
 often, like getting a resource from another server, for many of these tasks there is a package that makes
