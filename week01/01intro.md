@@ -1,4 +1,4 @@
-# intro to server side scripting week 1 May 04 2017
+# intro to server side scripting week 1 Sept 05 2017
 
 ## agenda 
 This week  
