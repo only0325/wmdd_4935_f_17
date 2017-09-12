@@ -3,7 +3,6 @@
 ## agenda
 
 ### this week
-- new weekly breakdown
 - intro to nodejs
   - modules
   - file system
@@ -12,8 +11,6 @@
 
 ### next week
 events, streams and buffers (oh my!)
-
-## notes on setting up c9
 
 ## javascript modules
 
