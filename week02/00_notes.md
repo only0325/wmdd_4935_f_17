@@ -86,4 +86,4 @@ like many of the core node modules fs has asynchronous and synchronous methods.
 we are going to look at the asynchronous methods, using callbacks, for
 performing a few common tasks today.
 
-[fs module docs](https://nodejs.org/dist/latest-v7.x/docs/api/fs.html)
+[fs module docs](https://nodejs.org/dist/latest-v8.x/docs/api/fs.html)

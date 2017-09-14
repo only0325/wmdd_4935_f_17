@@ -22,6 +22,16 @@ acronym for the tutorial series and the name of the tutorial.
 ex: 'mmh_routes', 'lyn_http_client', 'lym_connect'
 These should be in a single Github repository.
 
+so your file structure should look like this:
+
+    -- labs_wmdd4935
+      -- lyn_HelloWorld
+         index.js
+      -- lyn_Babysteps
+      -- mmh_(use mmh for make me hapi labs)
+      -- lym_(learn you mongo labs)
+      -- lyn_...(for every lab)
+
 I will not be grading your labs until the end of term, but I expect you to do a
 few every week. I will be checking your Github accounts and looking for progress
 with the labs.
