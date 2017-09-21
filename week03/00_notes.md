@@ -20,8 +20,11 @@ next week
 ## events
 
 We have talked about how Node is Asynchronous and Event driven in the previous
-classes, and looked callback pattern for coding in Node. Today we are going to
+classes, and looked at the callback pattern for coding in Node. Today we are going to
 dive a little deeper into how node handles events.
+
+> The event loop is what allows Node.js to perform non-blocking I/O operations — despite the fact that JavaScript is single-threaded — by offloading operations to the system kernel whenever possible.  
+>> nodejs documentation on the event loop
 
 The Node 'events' module is another of Nodes core modules (like the fs module
 that we looked at last week). This module contains the eventEmitter object with
