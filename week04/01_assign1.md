@@ -78,5 +78,5 @@ node_modules directory.
 this won't take some of you very long, but it is still better not to leave it
 until the last minute.
 
-### due date Friday June 02 Midnight
+### due date before the start of next class(week 5)
 
