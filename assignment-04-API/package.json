@@ -1,0 +1,11 @@
+{
+  "name": "assignment-04-api",
+  "version": "1.0.0",
+  "description": "Name: Ahrum Han ID : 100271946",
+  "main": "modify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
