@@ -1,0 +1,15 @@
+{
+  "name": "take_home_04",
+  "version": "1.0.0",
+  "description": "Name: Ahrum Han ID : 100271946",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pamo/hapi-todo.git"
+  },
+  "author": "",
+}
